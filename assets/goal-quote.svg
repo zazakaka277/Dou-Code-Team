@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130">
+<defs><linearGradient id="q" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"><animate attributeName="stop-color" values="#c4b5fd;#00d4ff;#ff9bf0;#c4b5fd" dur="7s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#00d4ff"><animate attributeName="stop-color" values="#00d4ff;#ff9bf0;#c4b5fd;#00d4ff" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#ff9bf0"><animate attributeName="stop-color" values="#ff9bf0;#c4b5fd;#00d4ff;#ff9bf0" dur="7s" repeatCount="indefinite"/></stop></linearGradient>
+<filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<text x="450" y="52" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="60" fill="#7b2fff" opacity=".6">“</text>
+<text x="450" y="70" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="2" fill="url(#q)" filter="url(#gl)">Build it together. Ship it beautifully.</text>
+<text x="450" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" letter-spacing="5" fill="#c4b5fd" opacity=".9">Make it the Project of the Year.</text>
+</svg>
