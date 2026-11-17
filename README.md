@@ -275,6 +275,7 @@
     <th>When</th>
     <th>Stage</th>
     <th>What happens</th>
+    <th>What happens</th>
   </tr>
   <tr>
     <td align="center"><b>Q1 2026</b></td>
